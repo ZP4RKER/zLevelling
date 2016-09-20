@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zLevelling">
+    <output-path>$USER_HOME$/Public/Bukkit/plugins</output-path>
+    <root id="archive" name="zLevelling.jar">
+      <element id="module-output" name="zLevelling" />
+    </root>
+  </artifact>
+</component>

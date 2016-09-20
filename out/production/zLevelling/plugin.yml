@@ -1,0 +1,22 @@
+name: zLevelling
+author: ZP4RKER
+main: com.zp4rker.zlevels.zLevelling
+version: 2.0
+database: true
+description: A levelling system plugin
+commands:
+   zlevel:
+      description: zLevel Command
+      usage: /zlevel <RELOAD|INFO>
+   addtype:
+      description: Adds an element type for a player in the config
+      usage: /addtype <TYPE>
+   level:
+      description: Displays level information
+      usage: /level
+   addlevel:
+      description: Adds a level to a player
+      usage: /addlevel <PLAYER> <AMOUNT>
+   addxp:
+      description: Adds xp to a player
+      usage: /addxp <PLAYER> <AMOUNT>
